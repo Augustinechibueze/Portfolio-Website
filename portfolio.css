@@ -240,7 +240,7 @@ ul li a:hover{
     font-size: 30px;
 }
 .close-menu{
-    color: black;
+    color: white;
     padding: 20px;
 }
 @media (min-width:951px){
