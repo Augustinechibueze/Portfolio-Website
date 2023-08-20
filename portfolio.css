@@ -1527,6 +1527,7 @@ textarea{
 }
 input,textarea{
     border: 1px solid var(--textColor);
+    color:white !important;
 }
 .submit-button{
     width: 100%;
